@@ -16,7 +16,7 @@ This project is a simple weather forecasting web application that provides curre
 - **OpenWeatherMap API:** Used to fetch real-time weather data for the specified location.
 
 ## Deployment
-The project is deployed using GitHub Pages and can be accessed at [Weather Forecast Web App](https://subhoshreep.github.io/weatherForecast.github.io/).
+The project is deployed using GitHub Pages and can be accessed at [Weather Forecast Web App](https://roshan3043.github.io/Weather-Forecast/).
 
 ## How it Works
 1. **User Input:** Users can enter a city or country name in the search bar.
