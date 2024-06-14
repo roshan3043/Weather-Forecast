@@ -1,5 +1,8 @@
 # Weather Forecast Web App 🌦️🌐
 
+## Deployment
+The project is deployed using GitHub Pages and can be accessed at [Weather Forecast Web App](https://roshan3043.github.io/Weather-Forecast/).
+
 ## Overview
 This project is a simple weather forecasting web application that provides current weather information and a 3-day forecast for a given location. The web app has a visually appealing interface with background images changing based on the weather conditions. It is designed to be responsive, making it accessible on various devices.
 
@@ -14,9 +17,6 @@ This project is a simple weather forecasting web application that provides curre
 - **CSS:** Styling for the visual elements and responsiveness.
 - **JavaScript:** Dynamic content, API integration, and user interactions.
 - **OpenWeatherMap API:** Used to fetch real-time weather data for the specified location.
-
-## Deployment
-The project is deployed using GitHub Pages and can be accessed at [Weather Forecast Web App](https://roshan3043.github.io/Weather-Forecast/).
 
 ## How it Works
 1. **User Input:** Users can enter a city or country name in the search bar.
